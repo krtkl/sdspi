@@ -32,4 +32,8 @@
 !*.cproject
 !*.bmm
 !*.xmp
+!*.elf
+!*.dtb
+!*.bif
+!*.bin
 
